@@ -27,4 +27,11 @@
 	⁃	Choisissez le dossier que vous souhaiter (doc_travaille) 
 
 #### Vous pouvez ajouter & supprimer des fichiers
+#### Réinitialiser un fihcier
+
+    -   Clique droit sur le fichier
+	-   Parcourir les versions précédentes
+	-   Tout les versions sans afficher 
+	-   Cliquer sur la fléche pour enregister la version choisi
+
 <span style="color:red">**Attention tous fichiers supprimer peuvent être retrouver par l’administrateur !!!**</span>
