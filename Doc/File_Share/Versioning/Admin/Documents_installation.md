@@ -43,3 +43,9 @@
 	⁃	Permission des Folder
 	⁃	Limitation de Byte dans un fichier
 	⁃	Puis Next jusqu’à Done
+
+#### Installation outils Synology
+
+	-   Aller sur Package Center
+	-   Télécharger Synology Drive Server
+	-   Il vous installera tous les ourils utile 
